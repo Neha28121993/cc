@@ -127,6 +127,7 @@ public class LoginPage_TestCases extends TestBase {
                 {"BlankUsernamePass","",""},
                 {"BlankUsername","","Neha@1993"},
                 {"Blankpassword","Neha.sharma@enercross.com",""},
+
         };
     }
 

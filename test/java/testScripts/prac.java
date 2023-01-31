@@ -24,6 +24,7 @@ public class prac {
            driver.manage().window().maximize();
            driver.get("https://test.natgashub.com/");
 
+
     }
 
     @Test

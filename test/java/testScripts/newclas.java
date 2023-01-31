@@ -154,7 +154,7 @@ public class newclas {
 //            fn=sca;
 //            sca=nxtnum;
 //
-//        }
+//   //     }
 
   String s="nehasharma",reversestr="";
   char Reversestring = 0;

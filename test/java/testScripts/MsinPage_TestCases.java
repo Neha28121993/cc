@@ -21,6 +21,8 @@ import java.util.Scanner;
 public class MsinPage_TestCases extends TestBase {
     LoginPage lp;
     DashboardPage dp;
+
+
     MsinPage mp;
     utilities.utils ut;
     MsinPage_TestCases()
