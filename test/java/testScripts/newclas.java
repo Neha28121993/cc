@@ -161,6 +161,7 @@ public class newclas {
   // char[] ch=s.toCharArray();
    for(int i=s.length()-1;i>=0;i--)
    {
+
        reversestr=reversestr+s.charAt(i);
 
    }
